@@ -1,0 +1,21 @@
+Steps:
+
+1. Run update_python.py to install python SDK for aws
+. ./update_python.py
+
+2. Change the ARN Role in ec2Instances.py file and run ec2Instances.py to create EC2 instance
+python3 ec2Instances.py
+[instance-ids =  i-0cf2d1725a175b146, i-03a45584da7e462a6]
+
+3. Run s3bucket.py 
+python3 s3bucket.py 
+ 
+4. Run sqsQueue.py
+python3 sqsQueue.py
+[created queue = backend-queue]
+
+5. Run ec2Events.py 
+python3 ec2Events.py 
+[CloudWatch Rule with event created]
+
+

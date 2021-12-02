@@ -1,0 +1,1 @@
+{'QueueUrl': 'https://queue.amazonaws.com/564393646252/backend-queue', 'ResponseMetadata': {'RequestId': '092ddbbc-2e05-5bd2-80d9-8256e56d99d0', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '092ddbbc-2e05-5bd2-80d9-8256e56d99d0', 'date': 'Thu, 21 Oct 2021 01:58:00 GMT', 'content-type': 'text/xml', 'content-length': '325'}, 'RetryAttempts': 0}}
